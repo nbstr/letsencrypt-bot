@@ -1,0 +1,29 @@
+{
+    "name": "ssl_certificate_reset",
+    "version": "0.0.1",
+    "description": "Reset SSL certifate by calling a route",
+    "keywords": [
+        "ssl", "letsencrypt", "certifate", "https"
+    ],
+    "author": "ink",
+    "license": "MIT",
+    "path": "~/Desktop/letsencrypt",
+    "email": "info@get-hey.com",
+    "domains": [
+        "get-hey.com",
+        "admin.get-hey.com",
+        "hac.get-hey.com",
+        "ssl.get-hey.com",
+        "support.get-hey.com",
+        "widget.get-hey.com",
+        "www.get-hey.com",
+        
+        "hey-hey",
+        "admin.hey-hey.co",
+        "hac.hey-hey.co",
+        "ssl.hey-hey.co",
+        "support.hey-hey.co",
+        "widget.hey-hey",
+        "www.hey-hey"   
+    ]
+}
